@@ -1,6 +1,6 @@
 <h2 align="center">Hello and welcome!</h2>
 
-<h3 align="center">I'm Jupiter.</h3>
+<h3 align="center">I'm Matthew.</h3>
 <p align="center">A programmer from South Africa currently exploring the world of Data Analytics.</p>
 
 
