@@ -8,4 +8,4 @@
 <p align="center"><a href="https://public.tableau.com/app/profile/matthew.hendricks3792/vizzes" target ="_blank">You can view my Tableau Public Visualizations here.</a></p>
 
 <h4 align="center">Let's Connect!</h4>
-<p align="center">I'm always eager to collaborate on interesting and innovative projects. Feel free to reach out to me via <a href="mailto:matthew.joshua.hendricks@gmail.com" target ="_blank">Email.</a></p>
+<p align="center">I'm always eager to collaborate on interesting and innovative projects. Feel free to reach out to me via <a href="mailto:mattjhcontact@gmail.com" target ="_blank">Email.</a></p>
