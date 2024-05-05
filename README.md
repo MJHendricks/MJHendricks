@@ -5,7 +5,11 @@
 
 
 <p align="center">My profile contains a collection of personal projects SQL, Python, and Java, focusing on data analysis and visualization.</p>
-<p align="center"><a href="https://public.tableau.com/app/profile/matthew.hendricks3792/vizzes">You can view my Tableau Public Visualizations here.</a></p>
+
+
+<h3 align="center">Links</h3>
+<p align="center"><a href="https://mjhendricks.github.io/">Personal Portfolio</a></p>
+<p align="center"><a href="https://public.tableau.com/app/profile/matthew.hendricks3792/vizzes">Tableau Public Visualizations</a></p>
 
 <h3 align="center">Let's Connect!</h4>
 <p align="center">I'm always eager to collaborate on interesting and innovative projects. Feel free to reach out to me via <a href="mailto:mattjhcontact@gmail.com">Email.</a></p>
