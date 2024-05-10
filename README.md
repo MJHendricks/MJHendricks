@@ -4,7 +4,7 @@
 <p align="center">A programmer from Cape Town, South Africa currently exploring the world of Data Analytics.</p>
 
 
-<p align="center">My profile contains a collection of personal projects SQL, Python, and Java, focusing on data analysis and visualization.</p>
+<p align="center">My profile contains a collection of personal projects in SQL, Python, and Java, focusing on data analysis and visualization.</p>
 
 
 <h3 align="center">Links</h3>
